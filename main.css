@@ -2402,8 +2402,8 @@ input, select, textarea {
 				}
 
 					ul.pagination li > .page.active:hover {
-						background-color: #9bf1ff;
-						color: #faa307 !important;
+						background-color: #faa307;
+						color: #ffffff !important;
 					}
 
 					ul.pagination li > .page.active:active {
