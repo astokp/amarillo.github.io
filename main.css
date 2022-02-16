@@ -2403,7 +2403,7 @@ input, select, textarea {
 
 					ul.pagination li > .page.active:hover {
 						background-color: #9bf1ff;
-						color: #242943 !important;
+						color: #faa307 !important;
 					}
 
 					ul.pagination li > .page.active:active {
